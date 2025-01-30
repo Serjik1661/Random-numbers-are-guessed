@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+
+}
+
+.container{
+    border: 2px solid black;
+    width: 90vh;
+    height: 90vh;
+    text-align: center;
+}
+.numRandomConteiner{
+    border: 2px solid black;
+    width: 70vh;
+    height: 70vh;
+    margin: 0 auto;
+    text-align: left;
+}
+.numContent{
+    margin-left: 15px;
+}
